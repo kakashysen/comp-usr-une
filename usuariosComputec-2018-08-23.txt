@@ -1,0 +1,260 @@
+dn: uid=jcelytest,ou=people,dc=computec,dc=com,dc=co
+objectClass: devicePrintProfilesContainer
+objectClass: iplanet-am-auth-configuration-service
+objectClass: sunAMAuthAccountLockout
+objectClass: sunIdentityServerLibertyPPService
+objectClass: sunFederationManagerDataStore
+objectClass: documentos-usuario
+objectClass: iplanet-am-managed-person
+objectClass: iPlanetPreferences
+objectClass: sunFMSAML2NameIdentifier
+objectClass: person
+objectClass: iplanet-am-user-service
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: inetuser
+objectClass: top
+objectClass: forgerock-am-dashboard-service
+role: CallCenter
+givenName: jcelytest
+inetUserStatus: Active
+uid: jcelytest
+cn: jcelytest jcelytest
+codigo-em: -1
+codigo-responsable: 231231231645
+sn: jcelytest
+userPassword: {SSHA512}cZoior5AQ8yWT61DUVAgoprrSqvnZ2RfE5zm2XT290TEA58b5xc58EfPr
+ l22L9jd+aFNc4AW/jMJ94vZ31yScG11izblH5z8
+mail: jcelytest@computec.com
+codigo-pais: 0
+codigo-cliente: 62
+codigo-grupo: 0
+
+dn: uid=jcelytext,ou=people,dc=computec,dc=com,dc=co
+objectClass: devicePrintProfilesContainer
+objectClass: iplanet-am-auth-configuration-service
+objectClass: sunAMAuthAccountLockout
+objectClass: sunIdentityServerLibertyPPService
+objectClass: sunFederationManagerDataStore
+objectClass: documentos-usuario
+objectClass: iplanet-am-managed-person
+objectClass: iPlanetPreferences
+objectClass: sunFMSAML2NameIdentifier
+objectClass: person
+objectClass: iplanet-am-user-service
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: inetuser
+objectClass: top
+objectClass: forgerock-am-dashboard-service
+role: CallCenter
+inetUserStatus: Active
+uid: jcelytext
+userPassword: {SSHA512}E+Qab3HS1Oky7yhBUw3Z2oh+tWD+bPNangA69iEYHlPvqZ5EiRBDCMAgD
+ iX1xPZuDt/EHRNPch/3YvUAE+Qz0gOnpPlWhZF3
+codigo-cliente: 62
+givenName: jcelytext
+codigo-em: -1
+codigo-responsable: 231231231
+cn: jcelytext jcelytext
+sn: jcelytext
+mail: jcelytext@computec.com
+codigo-pais: 0
+codigo-grupo: 0
+
+dn: uid=pavargas.computec,ou=people,dc=computec,dc=com,dc=co
+objectClass: devicePrintProfilesContainer
+objectClass: iplanet-am-auth-configuration-service
+objectClass: sunAMAuthAccountLockout
+objectClass: sunIdentityServerLibertyPPService
+objectClass: sunFederationManagerDataStore
+objectClass: documentos-usuario
+objectClass: iplanet-am-managed-person
+objectClass: iPlanetPreferences
+objectClass: sunFMSAML2NameIdentifier
+objectClass: person
+objectClass: iplanet-am-user-service
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: inetuser
+objectClass: top
+objectClass: forgerock-am-dashboard-service
+role: Administrador
+dir-usuario-ab: Carrera 63 # 17 -32
+inetUserStatus: Active
+uid: pavargas.computec
+userPassword: {SSHA512}8bD46YRcYoj96HWo3Qt4ZDVwVvL9ykqwuiJYMzwr0Ciymp9jDkowYftEe
+ XPBZagVeFtxk4boQ/qsQg9RdeRhwF6/6Hd37cGp
+codigo-cliente: 62
+givenName: Pedro Alfonso
+cn: Pedro Alfonso Vargas Cardenas
+codigo-em: -1
+codigo-responsable: 80500811
+telephoneNumber: 1679
+sn: Vargas Cardenas
+mail: pavargas@computec.com
+codigo-pais: 0
+codigo-grupo: 0
+
+dn: uid=jestupinan.computec,ou=people,dc=computec,dc=com,dc=co
+objectClass: devicePrintProfilesContainer
+objectClass: iplanet-am-auth-configuration-service
+objectClass: sunAMAuthAccountLockout
+objectClass: sunIdentityServerLibertyPPService
+objectClass: sunFederationManagerDataStore
+objectClass: documentos-usuario
+objectClass: iplanet-am-managed-person
+objectClass: iPlanetPreferences
+objectClass: sunFMSAML2NameIdentifier
+objectClass: person
+objectClass: iplanet-am-user-service
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: inetuser
+objectClass: top
+objectClass: forgerock-am-dashboard-service
+role: Administrador
+inetUserStatus: Active
+uid: jestupinan.computec
+userPassword: {SSHA512}4pwN49bxtWyRyJn/GLOIZd0cGDlPloGB69bQpXblxw5ANdUrqSRrTidDV
+ ybhx86MYY7TfSMQkGwrFegzrH0wSDJqFFZav0re
+codigo-cliente: 62
+givenName: Javier Alejandro
+codigo-responsable: 80214754
+codigo-em: -1
+cn: Javier Alejandro Estupinan Chigaza
+sn: Estupinan Chigaza
+mail: estupinan@computec.com
+codigo-pais: 0
+codigo-grupo: 0
+
+dn: uid=ecrispin.computec,ou=people,dc=computec,dc=com,dc=co
+objectClass: devicePrintProfilesContainer
+objectClass: iplanet-am-auth-configuration-service
+objectClass: sunAMAuthAccountLockout
+objectClass: sunIdentityServerLibertyPPService
+objectClass: sunFederationManagerDataStore
+objectClass: documentos-usuario
+objectClass: iplanet-am-managed-person
+objectClass: iPlanetPreferences
+objectClass: sunFMSAML2NameIdentifier
+objectClass: person
+objectClass: iplanet-am-user-service
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: inetuser
+objectClass: top
+objectClass: forgerock-am-dashboard-service
+role: Administrador
+inetUserStatus: Active
+dir-usuario-ab: Kr 63 # 17 -32
+uid: ecrispin.computec
+userPassword: {SSHA512}znvK7V04IcXS6yR3W/M2BrgJFwWfFwNtV/jSrcKQiRmGgBDRyxA8Platu
+ Jafrz708pHhgRoHKMA2mLfy1ffLQ11Ij6JSr4DC
+codigo-cliente: 62
+givenName: Eisenhower
+codigo-em: -1
+codigo-responsable: 80777914
+cn: Eisenhower Crispin Pinzon
+sn: Crispin Pinzon
+telephoneNumber: 5979500
+mail: ecrispin@computec.com
+codigo-pais: 0
+codigo-grupo: 0
+
+dn: uid=jfonseca.datacourrier,ou=people,dc=computec,dc=com,dc=co
+objectClass: devicePrintProfilesContainer
+objectClass: iplanet-am-auth-configuration-service
+objectClass: sunAMAuthAccountLockout
+objectClass: sunIdentityServerLibertyPPService
+objectClass: sunFederationManagerDataStore
+objectClass: documentos-usuario
+objectClass: iplanet-am-managed-person
+objectClass: iPlanetPreferences
+objectClass: sunFMSAML2NameIdentifier
+objectClass: person
+objectClass: iplanet-am-user-service
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: inetuser
+objectClass: top
+objectClass: forgerock-am-dashboard-service
+role: Administrador
+inetUserStatus: Active
+uid: jfonseca.datacourrier
+userPassword: {SSHA512}JL3N9aq3cJltoUTra+kBPAfSDRPm3NUMU4t42ysLzCbqHbpFGorE6wGgr
+ SHbwpiCV2D8QPL7KWMzv8VcVs4q/9ZMxzvjC7L7
+codigo-cliente: 62
+givenName: Jhon Alex
+codigo-responsable: 1030594124
+codigo-em: -1
+cn: Jhon Alex Fonseca Tello
+sn: Fonseca Tello
+mail: jfonseca@datacourrier.com
+codigo-pais: 0
+codigo-grupo: 0
+
+dn: uid=pruebas.select,ou=people,dc=computec,dc=com,dc=co
+objectClass: devicePrintProfilesContainer
+objectClass: iplanet-am-auth-configuration-service
+objectClass: sunAMAuthAccountLockout
+objectClass: sunIdentityServerLibertyPPService
+objectClass: sunFederationManagerDataStore
+objectClass: documentos-usuario
+objectClass: iplanet-am-managed-person
+objectClass: iPlanetPreferences
+objectClass: sunFMSAML2NameIdentifier
+objectClass: person
+objectClass: iplanet-am-user-service
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: inetuser
+objectClass: top
+objectClass: forgerock-am-dashboard-service
+role: CallCenter
+inetUserStatus: Active
+uid: pruebas.select
+userPassword: {SSHA512}4Ao9Odj3ELT0Y37lqEUTt+sz4SMXPD5zMzYWNR5t4Vgk+co51DpRpNDy2
+ ZZe73hj1IoeAww5J7BeAxfI+woBcIi71SJStbAO
+codigo-cliente: 62
+givenName: pruebas.select
+cn: pruebas.select pruebas.select
+codigo-responsable: 214651321
+codigo-em: -1
+sn: pruebas.select
+mail: pruebas@select.com
+codigo-pais: 0
+codigo-grupo: 0
+
+dn: uid=lsolano.computec,ou=people,dc=computec,dc=com,dc=co
+objectClass: devicePrintProfilesContainer
+objectClass: iplanet-am-auth-configuration-service
+objectClass: sunAMAuthAccountLockout
+objectClass: sunIdentityServerLibertyPPService
+objectClass: sunFederationManagerDataStore
+objectClass: documentos-usuario
+objectClass: iplanet-am-managed-person
+objectClass: iPlanetPreferences
+objectClass: sunFMSAML2NameIdentifier
+objectClass: person
+objectClass: iplanet-am-user-service
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: inetuser
+objectClass: top
+objectClass: forgerock-am-dashboard-service
+role: Administrador
+inetUserStatus: Active
+uid: lsolano.computec
+userPassword: {SSHA512}9+Bp40e8mKwL/hLT1x34VTkBdu6uAkuFNuebDMbKwlJk88mBs2t9Ws65A
+ NIv5ldd235FV9v3uCOiMGsmWULxMUNBCP7Yqs80
+codigo-cliente: 62
+givenName: luz dary
+cn: luz dary Solano
+codigo-responsable: 123456
+codigo-em: -1
+sn: Solano
+mail: lsolano@computec.com
+codigo-pais: 0
+codigo-grupo: 0
+
